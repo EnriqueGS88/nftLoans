@@ -1,6 +1,6 @@
 # Loans collateralized by Real Estate NFTs
 
-[<img align="left" alt="frontend" width="500px" src="https://raw.githubusercontent.com/EnriqueGS88/blog/main/img/nftLoans_frontend.png" />][frontend]
+[<img align="center" alt="frontend" width="500px" src="https://raw.githubusercontent.com/EnriqueGS88/blog/main/img/nftLoans_frontend.png" />][frontend]
 
 
 # Getting Started with Create React App
