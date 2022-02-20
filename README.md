@@ -11,12 +11,12 @@ Install the dependencies:
 
 ```sh
 git clone <github url>
-yarn install
+npm install
 ```
 
 Then run the webapp on localhost
 ```sh
-yarn start
+npm start
 ```
 
 ## Available Scripts
