@@ -3,8 +3,6 @@
 [<img align="left" alt="frontend" width="500px" src="https://raw.githubusercontent.com/EnriqueGS88/blog/main/img/nftLoans_frontend.png" />][frontend]
 
 
-https://raw.githubusercontent.com/EnriqueGS88/blog/main/img/nftLoans_frontend.png
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
